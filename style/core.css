@@ -1,0 +1,6 @@
+/* Core CSS */
+#title {
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #333;
+}
